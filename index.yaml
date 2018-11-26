@@ -1,0 +1,67 @@
+apiVersion: v1
+entries:
+  geth:
+  - appVersion: dev
+    created: 2018-11-26T13:33:31.301377+01:00
+    description: Run geth (go ethereum client)
+    digest: 18600e1e9b0854841be182d06d57ed81d023d54d962532291922ebc8f3d76196
+    home: https://geth.ethereum.org
+    icon: https://geth.ethereum.org/static/images/ethereum.png
+    keywords:
+    - ethereum
+    maintainers:
+    - email: rafael@ethereum.org
+      name: skylenet
+    name: geth
+    sources:
+    - https://github.com/ethereum/go-ethereum
+    urls:
+    - geth-0.0.1.tgz
+    version: 0.0.1
+  swarm:
+  - appVersion: dev
+    created: 2018-11-26T13:33:31.303633+01:00
+    description: Create an ethereum swarm cluster
+    digest: 4ae5583ffe8c04fe757530412590cf55c4962bee71b43de028b7f21ea1bc5f1c
+    home: https://swarm.ethereum.org
+    icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
+    keywords:
+    - ethereum
+    - blockchain
+    - swarm
+    - storage
+    - web3
+    maintainers:
+    - email: rafael@ethereum.org
+      name: skylenet
+    name: swarm
+    sources:
+    - https://github.com/ethereum/go-ethereum
+    - https://github.com/ethereum/go-ethereum/tree/master/swarm
+    urls:
+    - swarm-0.0.1.tgz
+    version: 0.0.1
+  swarm-private:
+  - appVersion: dev
+    created: 2018-11-26T13:33:31.306244+01:00
+    description: Create a private ethereum swarm cluster
+    digest: 06cf4fa74ea699313220fa0606bfda28f9be78988bedee0716b77cc5ada88861
+    home: https://swarm.ethereum.org
+    icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
+    keywords:
+    - ethereum
+    - blockchain
+    - swarm
+    - storage
+    - web3
+    maintainers:
+    - email: rafael@ethereum.org
+      name: skylenet
+    name: swarm-private
+    sources:
+    - https://github.com/ethereum/go-ethereum
+    - https://github.com/ethereum/go-ethereum/tree/master/swarm
+    urls:
+    - swarm-private-0.0.1.tgz
+    version: 0.0.1
+generated: 2018-11-26T13:33:31.300522+01:00
