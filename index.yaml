@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   geth:
   - appVersion: dev
-    created: 2018-11-30T14:33:07.770648+01:00
+    created: 2018-11-30T16:31:01.301021+01:00
     description: Run geth (go ethereum client)
-    digest: 99918b2800c014b842755e2b88826a2bc7284e6a579b67f0ebe98f1b9c1c1eb9
+    digest: 4b7cee7c36c94870392fcbb61c996720539a4fb114ae650d2be4a8cb333d61ef
     home: https://geth.ethereum.org
     icon: https://geth.ethereum.org/static/images/ethereum.png
     keywords:
@@ -20,10 +20,10 @@ entries:
     version: 0.0.1
   jaeger:
   - appVersion: dev
-    created: 2018-11-30T14:33:07.770996+01:00
+    created: 2018-11-30T16:31:01.301365+01:00
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
-    digest: 5464d0d4b32a1210727e4e8579a699ccad000c128bcda748d6e75853b23c8a48
+    digest: 5cd6b2bf6bc4ea0f492253cb1436a3410a700b95dbe34edd57c498ef572cdc10
     home: https://www.jaegertracing.io
     icon: https://www.jaegertracing.io/img/jaeger-logo.png
     keywords:
@@ -41,9 +41,9 @@ entries:
     version: 0.0.1
   swarm:
   - appVersion: dev
-    created: 2018-11-30T14:33:07.773046+01:00
+    created: 2018-11-30T16:31:01.303405+01:00
     description: Create an ethereum swarm cluster
-    digest: ae2801c9753c83436587608812ac91640ca0fe41b859ff428290780360292ffc
+    digest: a314c9c5a2cdff34d19065223a44149973b182ebbc66e8b1fae7d4b8c27b5887
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -64,9 +64,9 @@ entries:
     version: 0.0.1
   swarm-private:
   - appVersion: dev
-    created: 2018-11-30T14:33:07.774936+01:00
+    created: 2018-11-30T16:31:01.305262+01:00
     description: Create a private ethereum swarm cluster
-    digest: a828ba76e693d34ce6ddfda41eafb684698df2ac33240bb278a79e55d4a41d08
+    digest: dc3be8f2e6e58190d100d39cac1b223319721435bf251b4c15a244a7cc20ca20
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -85,4 +85,4 @@ entries:
     urls:
     - swarm-private-0.0.1.tgz
     version: 0.0.1
-generated: 2018-11-30T14:33:07.769927+01:00
+generated: 2018-11-30T16:31:01.300314+01:00
