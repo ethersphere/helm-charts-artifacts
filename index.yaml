@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   geth:
   - appVersion: dev
-    created: 2018-12-04T15:31:13.070564+01:00
+    created: 2018-12-11T12:30:09.712022+01:00
     description: Run geth (go ethereum client)
-    digest: f9c626e3b77d7b5abd518fc7cb04e6a14e49ce2041b2468068d7bdd95a489b37
+    digest: d25a8a0602db3515aca2eb81cc4127c2c97c6ed506f194fd2260aa88409ee84c
     home: https://geth.ethereum.org
     icon: https://geth.ethereum.org/static/images/ethereum.png
     keywords:
@@ -20,10 +20,10 @@ entries:
     version: 0.0.1
   jaeger:
   - appVersion: dev
-    created: 2018-12-04T15:31:13.070914+01:00
+    created: 2018-12-11T12:30:09.712372+01:00
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
-    digest: 7d83f58295e9ccac4b0602859cb93367f0c40254cc8f39f7fd3627e815660893
+    digest: bd7e06376bb72f68e9b1ab6ba959f84bb1ed6ef475a23acd5a27d9cfb9dc630a
     home: https://www.jaegertracing.io
     icon: https://www.jaegertracing.io/img/jaeger-logo.png
     keywords:
@@ -41,9 +41,9 @@ entries:
     version: 0.0.1
   swarm:
   - appVersion: dev
-    created: 2018-12-04T15:31:13.072899+01:00
+    created: 2018-12-11T12:30:09.714375+01:00
     description: Create an ethereum swarm cluster
-    digest: da62a396a106a40d280af8c0fe69aaa7d8bc470df4de2009fc6b5b9fabb40dae
+    digest: 1f853c9ced98a36de433691f2b5ce6daf27152f8b932c3223a665227594f49b1
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -64,9 +64,9 @@ entries:
     version: 0.0.1
   swarm-private:
   - appVersion: dev
-    created: 2018-12-04T15:31:13.075121+01:00
+    created: 2018-12-11T12:30:09.716518+01:00
     description: Create a private ethereum swarm cluster
-    digest: 98f4fc7abba83081565953be4bcc25f75c556dcdb0cf92faf124181710e1b5fc
+    digest: f0d955c2ad3583934b52e8bb8797a460e36d94f8a0879dd4451c7feb5e5b4632
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -85,4 +85,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-private-0.0.1.tgz
     version: 0.0.1
-generated: 2018-12-04T15:31:13.069821+01:00
+generated: 2018-12-11T12:30:09.711316+01:00
