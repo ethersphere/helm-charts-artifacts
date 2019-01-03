@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   geth:
   - appVersion: dev
-    created: 2018-12-21T14:57:07.845786+01:00
+    created: 2019-01-03T18:59:49.796631558+01:00
     description: Run geth (go ethereum client)
-    digest: 880b813700631f413b289ac5db02ecd65ce25df107865a12a5da3bed8ea2b63f
+    digest: ed6efb5932ae8a3d83530bbdfe826189d31278dfec59cd1222fe3ea0639df0f7
     home: https://geth.ethereum.org
     icon: https://geth.ethereum.org/static/images/ethereum.png
     keywords:
@@ -20,10 +20,10 @@ entries:
     version: 0.0.1
   jaeger:
   - appVersion: dev
-    created: 2018-12-21T14:57:07.846146+01:00
+    created: 2019-01-03T18:59:49.796852097+01:00
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
-    digest: 2c6ab636a0c053bd7f476c8e669f6c2e9812e0952d2647c616855a3ff0fdae65
+    digest: e84896333b131afab03478f726f5a7d0c86c5c113dfaa03c39c4f2654b33df0d
     home: https://www.jaegertracing.io
     icon: https://www.jaegertracing.io/img/jaeger-logo.png
     keywords:
@@ -41,9 +41,9 @@ entries:
     version: 0.0.1
   smoke:
   - appVersion: dev
-    created: 2018-12-21T14:57:07.846478+01:00
+    created: 2019-01-03T18:59:49.797074094+01:00
     description: Create a smoke test for Swarm
-    digest: 54a4da6ea59c705cdd4f4dd682398614c0093ae20ebb761711b521f298f9ab18
+    digest: 576f97c8875ef4da30465b9cdfafd2f0fc9b572209014340eccfd64d34848460
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -64,9 +64,9 @@ entries:
     version: 0.0.1
   swarm:
   - appVersion: dev
-    created: 2018-12-21T14:57:07.848469+01:00
+    created: 2019-01-03T18:59:49.79891383+01:00
     description: Create an ethereum swarm cluster
-    digest: 121465c8011d0a2f607642a2c14ff65b079405c44a0d6cc6f773ea9326d6aaa5
+    digest: 57b0cf43e743252e46ccff35c5bae9f9344b25d249c486653854fb60cca67de2
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -87,9 +87,9 @@ entries:
     version: 0.0.1
   swarm-private:
   - appVersion: dev
-    created: 2018-12-21T14:57:07.850496+01:00
+    created: 2019-01-03T18:59:49.801627504+01:00
     description: Create a private ethereum swarm cluster
-    digest: 7a311713114e03f467531ee03371c558d541f554075a9c8d2ca1e5c064d7b2e6
+    digest: 5fe02d24d4d3f69443cd1069297c6317e3fc0a29df52bef5060dda2fad3693dc
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -108,4 +108,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-private-0.0.1.tgz
     version: 0.0.1
-generated: 2018-12-21T14:57:07.845082+01:00
+generated: 2019-01-03T18:59:49.796260401+01:00
