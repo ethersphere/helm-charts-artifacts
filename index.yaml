@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   geth:
   - appVersion: dev
-    created: 2019-01-30T14:19:12.423057101Z
+    created: 2019-01-30T14:29:35.834060008Z
     description: Run geth (go ethereum client)
-    digest: a18f753dd08d8f21c4b58057ab1ac76f2c05457b54c6a35e7ab8d8b40d748e07
+    digest: 64749c69da117479967a2a09d36cf878ee7d36179f6cb1f4c78e1cf54714baa1
     home: https://geth.ethereum.org
     icon: https://geth.ethereum.org/static/images/ethereum.png
     keywords:
@@ -20,10 +20,10 @@ entries:
     version: 0.0.1
   jaeger:
   - appVersion: dev
-    created: 2019-01-30T14:19:12.424452617Z
+    created: 2019-01-30T14:29:35.835262791Z
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
-    digest: 040162f508e6731d4258e8fd617e1a38b26ee3da2589b0ac9711be28f88c6f99
+    digest: 3d2580c3b5205afd9f3200a8dc9af1d5fd973bbfd492004dbcadfafecfe0f82b
     home: https://www.jaegertracing.io
     icon: https://www.jaegertracing.io/img/jaeger-logo.png
     keywords:
@@ -40,7 +40,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/jaeger-0.0.2.tgz
     version: 0.0.2
   - appVersion: dev
-    created: 2019-01-30T14:19:12.423743618Z
+    created: 2019-01-30T14:29:35.834708891Z
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
     digest: 638ba80cb46f17fc5eba8c091c4ac36fe683c04a7dfc13b17a27ae7fe290da21
@@ -61,9 +61,9 @@ entries:
     version: 0.0.1
   smoke:
   - appVersion: dev
-    created: 2019-01-30T14:19:12.424973543Z
+    created: 2019-01-30T14:29:35.835863014Z
     description: Create a smoke test for Swarm
-    digest: 4d566ebe724eb7f1d54dc4a352986fd7820ea86fb66b60346e371b29e939ee9e
+    digest: 9db3ed43837ef041d15ff170d84d16d4788d5a5242ace48f72585c74b7aad8e8
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -84,9 +84,9 @@ entries:
     version: 0.0.1
   swarm:
   - appVersion: dev
-    created: 2019-01-30T14:19:12.430423526Z
+    created: 2019-01-30T14:29:35.841296496Z
     description: Create an ethereum swarm cluster
-    digest: 60c5924188cb3433e3bdc6af76ecefd75a2ae066b9e5caa2bd2aebbc51207909
+    digest: 983f53dfc4539c123631472b765da63b7e55329e91af077ab0e10540acf686d8
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -106,7 +106,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-0.0.2.tgz
     version: 0.0.2
   - appVersion: dev
-    created: 2019-01-30T14:19:12.428241777Z
+    created: 2019-01-30T14:29:35.839232317Z
     description: Create an ethereum swarm cluster
     digest: 48b80ba8d182e8001b10592fc60592542ca3260e8fd9a8a63b9b3c366ead446b
     home: https://swarm.ethereum.org
@@ -129,9 +129,9 @@ entries:
     version: 0.0.1
   swarm-private:
   - appVersion: dev
-    created: 2019-01-30T14:19:12.434531502Z
+    created: 2019-01-30T14:29:35.845353839Z
     description: Create a private ethereum swarm cluster
-    digest: 4602a450a85b5a7d31995311b018599d2c2b2275ea917c1299abfdac421f22b7
+    digest: ed07e4f91045da8204ae2f4a6ecf30b7a765bc2891ae4fbd5f50d41f56da1aa4
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -151,7 +151,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-private-0.0.2.tgz
     version: 0.0.2
   - appVersion: dev
-    created: 2019-01-30T14:19:12.432433357Z
+    created: 2019-01-30T14:29:35.843343299Z
     description: Create a private ethereum swarm cluster
     digest: 1def13ed63bfc9c3f00c6f984cb644fb3dc183ddecfe0996f95bef5679554aaa
     home: https://swarm.ethereum.org
@@ -172,4 +172,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-private-0.0.1.tgz
     version: 0.0.1
-generated: 2019-01-30T14:19:12.421938843Z
+generated: 2019-01-30T14:29:35.832871704Z
