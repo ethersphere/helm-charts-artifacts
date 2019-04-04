@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   geth:
   - appVersion: dev
-    created: 2019-04-04T08:38:27.463572199Z
+    created: 2019-04-04T09:04:50.503783662Z
     description: Run geth (go ethereum client)
-    digest: 36ecdde9176e41934e84d6dddd7cf972ad3bec25b249d2dabfe4919e6ca6acd3
+    digest: 56fb270ab5030bd767fc07f932d0857d8a43ceab3ecc5fc9940711062e452012
     home: https://geth.ethereum.org
     icon: https://geth.ethereum.org/static/images/ethereum.png
     keywords:
@@ -20,10 +20,10 @@ entries:
     version: 0.0.1
   jaeger:
   - appVersion: dev
-    created: 2019-04-04T08:38:27.465375544Z
+    created: 2019-04-04T09:04:50.505513143Z
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
-    digest: b839715074ca7b846d81c7bfcaedaa0f715c900f2c347d32d31ea72dab0074f1
+    digest: 635bd248f826e8a5767ca5693a9812f9930166201916940471590ac6256cc854
     home: https://www.jaegertracing.io
     icon: https://www.jaegertracing.io/img/jaeger-logo.png
     keywords:
@@ -40,7 +40,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/jaeger-0.0.3.tgz
     version: 0.0.3
   - appVersion: dev
-    created: 2019-04-04T08:38:27.464794556Z
+    created: 2019-04-04T09:04:50.505072982Z
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
     digest: 719b2680d65777bc15b0157830ecabb1c542d779f6dd517a5a6046562a804b1c
@@ -60,7 +60,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/jaeger-0.0.2.tgz
     version: 0.0.2
   - appVersion: dev
-    created: 2019-04-04T08:38:27.464187044Z
+    created: 2019-04-04T09:04:50.504392998Z
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
     digest: 638ba80cb46f17fc5eba8c091c4ac36fe683c04a7dfc13b17a27ae7fe290da21
@@ -81,9 +81,9 @@ entries:
     version: 0.0.1
   kapacitor-importer:
   - appVersion: dev
-    created: 2019-04-04T08:38:27.466005996Z
+    created: 2019-04-04T09:04:50.505861865Z
     description: Used to import .tick scripts to an existing kapacitor instance
-    digest: a499708e19ee46b442670cf5a789ad97444527c8c0635aee8cb81fa63cfa16dd
+    digest: cc10340f918e9d3f864e49b27c16fe9017bd9406ac6a5311269275917bfe6fc8
     home: https://docs.influxdata.com/kapacitor/
     keywords:
     - kapacitor
@@ -99,9 +99,9 @@ entries:
     version: 0.0.1
   smoke:
   - appVersion: dev
-    created: 2019-04-04T08:38:27.467312539Z
+    created: 2019-04-04T09:04:50.50647827Z
     description: Create a smoke test for Swarm
-    digest: 7d2f20e3d1d4eb1468bf85c24db0ab437fafe4965d40692137ac4472e221c571
+    digest: 249a3b59fa0021a05e77edd2077cf79ffc845cc119d66a478a3ecf4dc9ccbbab
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -121,7 +121,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/smoke-0.0.2.tgz
     version: 0.0.2
   - appVersion: dev
-    created: 2019-04-04T08:38:27.466599004Z
+    created: 2019-04-04T09:04:50.506196856Z
     description: Create a smoke test for Swarm
     digest: 442e775d8342f6229506c899086de1d9e4597b05f911557629e15ab08fac4b6d
     home: https://swarm.ethereum.org
@@ -144,9 +144,9 @@ entries:
     version: 0.0.1
   swarm:
   - appVersion: dev
-    created: 2019-04-04T08:38:27.471553543Z
+    created: 2019-04-04T09:04:50.510574443Z
     description: Create an ethereum swarm cluster
-    digest: 5ef769841d0405c673877de45d41d4f5def030dc45b52d9f6c1ebfda835d6f27
+    digest: fad6f4b1a04aca62f321b6d74fca0c2a8843f7cbcb61a1911d59586f1a37ce51
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -166,7 +166,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-0.0.2.tgz
     version: 0.0.2
   - appVersion: dev
-    created: 2019-04-04T08:38:27.469558532Z
+    created: 2019-04-04T09:04:50.508519579Z
     description: Create an ethereum swarm cluster
     digest: 48b80ba8d182e8001b10592fc60592542ca3260e8fd9a8a63b9b3c366ead446b
     home: https://swarm.ethereum.org
@@ -189,10 +189,10 @@ entries:
     version: 0.0.1
   swarm-global-store:
   - appVersion: dev
-    created: 2019-04-04T08:38:27.47187692Z
+    created: 2019-04-04T09:04:50.510926952Z
     description: A global store that can be used by Swarm nodes to persist their data.
       Mainly used for debugging and testing purposes.
-    digest: bedfaa7f12525ff179267c2d8d44df729dfa0040f2227337096f0b20db6b6fae
+    digest: 60cbe60081bc934b788bafdcf5e1efe51df42c04b4b8183e74ac76087e0c9543
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -214,9 +214,9 @@ entries:
     version: 0.0.1
   swarm-private:
   - appVersion: dev
-    created: 2019-04-04T08:38:27.476484909Z
+    created: 2019-04-04T09:04:50.515705424Z
     description: Create a private ethereum swarm cluster
-    digest: 538092df38b7cd1d500bc8fdcbbebaac9feb12ec8315a579a014f84b383c6178
+    digest: 9a6ec3370b1b28a220a612c6866c1486db06bd157a3d16fe320536036295f9e3
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -236,7 +236,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-private-0.0.2.tgz
     version: 0.0.2
   - appVersion: dev
-    created: 2019-04-04T08:38:27.473879304Z
+    created: 2019-04-04T09:04:50.512951119Z
     description: Create a private ethereum swarm cluster
     digest: 1def13ed63bfc9c3f00c6f984cb644fb3dc183ddecfe0996f95bef5679554aaa
     home: https://swarm.ethereum.org
@@ -259,9 +259,9 @@ entries:
     version: 0.0.1
   swarm-tests:
   - appVersion: dev
-    created: 2019-04-04T08:38:27.476836413Z
+    created: 2019-04-04T09:04:50.516107455Z
     description: Execute tests against the swarm codebase
-    digest: 9dd2b79c6555830e077aea35f61433cf2bc31bb0d5c887e04002ea6b6fa755db
+    digest: 22463342c23deeae9a2dc0ddcdc6da5c2da1ed11d1c63b8f1fbc1d9732182d2b
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -280,4 +280,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-tests-0.0.1.tgz
     version: 0.0.1
-generated: 2019-04-04T08:38:27.462427662Z
+generated: 2019-04-04T09:04:50.502681223Z
