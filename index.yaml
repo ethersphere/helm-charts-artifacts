@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   ganache:
   - appVersion: dev
-    created: 2019-09-19T14:53:28.587189207Z
+    created: 2019-09-25T12:48:50.903292739Z
     description: Run an ethereum blockchain for testing purposes
-    digest: b891937970429613205a6a919e5c3d75d7abc3a391b7f5df98535fc84a644879
+    digest: e4d460a9bfe0280c3909eedcd4639d853f2259272a21fded252807594093aea8
     home: https://www.trufflesuite.com/ganache
     icon: https://www.trufflesuite.com/img/ganache-logo-dark.svg
     keywords:
@@ -22,9 +22,9 @@ entries:
     version: 0.0.1
   geth:
   - appVersion: dev
-    created: 2019-09-19T14:53:28.587937996Z
+    created: 2019-09-25T12:48:50.90402081Z
     description: Run geth (go ethereum client)
-    digest: 7d215d6d677e0c2e1c94a3c6da43b948a6179c2cef6d1c40d7957676ff54432c
+    digest: ff83f252e87b2f103993b20fb2f3895a30c011ac58f430c326e458608c008db6
     home: https://geth.ethereum.org
     icon: https://geth.ethereum.org/static/images/ethereum.png
     keywords:
@@ -40,10 +40,10 @@ entries:
     version: 0.0.1
   jaeger:
   - appVersion: dev
-    created: 2019-09-19T14:53:28.591797148Z
+    created: 2019-09-25T12:48:50.907455945Z
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
-    digest: 62e601e409e56474406a3cda8ea46f0ce366c2e344675950fdba570aca5979d3
+    digest: 20f5eaef282fdea9331d4c984a0850e7c33879ba6278edc4111c6ca723823038
     home: https://www.jaegertracing.io
     icon: https://www.jaegertracing.io/img/jaeger-logo.png
     keywords:
@@ -60,7 +60,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/jaeger-0.0.7.tgz
     version: 0.0.7
   - appVersion: dev
-    created: 2019-09-19T14:53:28.591471682Z
+    created: 2019-09-25T12:48:50.907138773Z
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
     digest: cc49dbcef3a7b9169b62a2cc98a43092e7fc4d66f79f0600a482e43f1e8417ab
@@ -80,7 +80,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/jaeger-0.0.6.tgz
     version: 0.0.6
   - appVersion: dev
-    created: 2019-09-19T14:53:28.591051674Z
+    created: 2019-09-25T12:48:50.906858747Z
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
     digest: d8b7f04c25db015e7f2e9197da90e7f414a37b8b2762fe2b720f694c7154cfa5
@@ -100,7 +100,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/jaeger-0.0.5.tgz
     version: 0.0.5
   - appVersion: dev
-    created: 2019-09-19T14:53:28.590428548Z
+    created: 2019-09-25T12:48:50.90654793Z
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
     digest: 5eb441d3448bfaaaa1d302d4a1d9d5f18a65af2c11ce46c9e16c4d6fb3554892
@@ -120,7 +120,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/jaeger-0.0.4.tgz
     version: 0.0.4
   - appVersion: dev
-    created: 2019-09-19T14:53:28.58978668Z
+    created: 2019-09-25T12:48:50.905894208Z
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
     digest: 635bd248f826e8a5767ca5693a9812f9930166201916940471590ac6256cc854
@@ -140,7 +140,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/jaeger-0.0.3.tgz
     version: 0.0.3
   - appVersion: dev
-    created: 2019-09-19T14:53:28.589172422Z
+    created: 2019-09-25T12:48:50.905206826Z
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
     digest: 719b2680d65777bc15b0157830ecabb1c542d779f6dd517a5a6046562a804b1c
@@ -160,7 +160,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/jaeger-0.0.2.tgz
     version: 0.0.2
   - appVersion: dev
-    created: 2019-09-19T14:53:28.588597086Z
+    created: 2019-09-25T12:48:50.904629691Z
     description: Jaeger all-in-one launches the Jaeger UI, collector, query, and agent,
       with an in memory storage component.
     digest: 638ba80cb46f17fc5eba8c091c4ac36fe683c04a7dfc13b17a27ae7fe290da21
@@ -181,9 +181,9 @@ entries:
     version: 0.0.1
   kapacitor-importer:
   - appVersion: dev
-    created: 2019-09-19T14:53:28.592083806Z
+    created: 2019-09-25T12:48:50.907751587Z
     description: Used to import .tick scripts to an existing kapacitor instance
-    digest: 8cf0b6e451102ffd2fd71fd5cc024aecb0efa41e565c4ccef3aeb2031e628a8c
+    digest: fea930ee8ffe4ac0c3fbf45cb7eea325f6bca8a6b4b7d5803813ffaf05e44468
     home: https://docs.influxdata.com/kapacitor/
     keywords:
     - kapacitor
@@ -199,9 +199,9 @@ entries:
     version: 0.0.1
   smoke:
   - appVersion: dev
-    created: 2019-09-19T14:53:28.592636077Z
+    created: 2019-09-25T12:48:50.908471624Z
     description: Create a smoke test for Swarm
-    digest: c7938f6f1bbcfc47d25d711f745f9c7cc3b5df1d9a8d53c481239ac99ba07139
+    digest: 124313caa3a8c221c6a6f58267cc6d4266b0ec2f78642e3dce4811016624ebbd
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -221,7 +221,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/smoke-0.0.2.tgz
     version: 0.0.2
   - appVersion: dev
-    created: 2019-09-19T14:53:28.592364798Z
+    created: 2019-09-25T12:48:50.908011761Z
     description: Create a smoke test for Swarm
     digest: 442e775d8342f6229506c899086de1d9e4597b05f911557629e15ab08fac4b6d
     home: https://swarm.ethereum.org
@@ -244,7 +244,29 @@ entries:
     version: 0.0.1
   swarm:
   - appVersion: dev
-    created: 2019-09-19T14:53:28.601677508Z
+    created: 2019-09-25T12:48:50.921044349Z
+    description: Create an ethereum swarm cluster
+    digest: 838b1fa98acafb0e5e236bde6fc91c6287dfec714b3515f60801a6335c54dfbc
+    home: https://swarm.ethereum.org
+    icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
+    keywords:
+    - ethereum
+    - blockchain
+    - swarm
+    - storage
+    - web3
+    maintainers:
+    - email: rafael@ethereum.org
+      name: skylenet
+    name: swarm
+    sources:
+    - https://github.com/ethereum/go-ethereum
+    - https://github.com/ethereum/go-ethereum/tree/master/swarm
+    urls:
+    - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-0.0.5.tgz
+    version: 0.0.5
+  - appVersion: dev
+    created: 2019-09-25T12:48:50.917951967Z
     description: Create an ethereum swarm cluster
     digest: daa6a36d90814858b008b75fb1795d6b3f0d04ff948fca99b7569e892c141caf
     home: https://swarm.ethereum.org
@@ -266,7 +288,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-0.0.4.tgz
     version: 0.0.4
   - appVersion: dev
-    created: 2019-09-19T14:53:28.598871186Z
+    created: 2019-09-25T12:48:50.915218199Z
     description: Create an ethereum swarm cluster
     digest: 180e920fad0c5bd6be628d17cf4cd190449a4c11634bbe44eb0b1763c7ae5fbb
     home: https://swarm.ethereum.org
@@ -288,7 +310,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-0.0.3.tgz
     version: 0.0.3
   - appVersion: dev
-    created: 2019-09-19T14:53:28.596761862Z
+    created: 2019-09-25T12:48:50.912986874Z
     description: Create an ethereum swarm cluster
     digest: fc3dbf4a83024b0e2f78f32d238b795dca07f1424500ce22e60a1aeb300f0822
     home: https://swarm.ethereum.org
@@ -310,7 +332,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-0.0.2.tgz
     version: 0.0.2
   - appVersion: dev
-    created: 2019-09-19T14:53:28.594696213Z
+    created: 2019-09-25T12:48:50.910749644Z
     description: Create an ethereum swarm cluster
     digest: 48b80ba8d182e8001b10592fc60592542ca3260e8fd9a8a63b9b3c366ead446b
     home: https://swarm.ethereum.org
@@ -333,10 +355,10 @@ entries:
     version: 0.0.1
   swarm-global-store:
   - appVersion: dev
-    created: 2019-09-19T14:53:28.60203217Z
+    created: 2019-09-25T12:48:50.921780738Z
     description: A global store that can be used by Swarm nodes to persist their data.
       Mainly used for debugging and testing purposes.
-    digest: 1b48855d094052a20bd63f25d862973b184ff4da64fd43e0af006360da3a8de6
+    digest: 5ff4965a5bc5a990f7ff9b0148b8ab081f28f1348a07741f7279548c8c645db0
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -358,9 +380,9 @@ entries:
     version: 0.0.1
   swarm-private:
   - appVersion: dev
-    created: 2019-09-19T14:53:28.619628844Z
+    created: 2019-09-25T12:48:50.939356841Z
     description: Create a private ethereum swarm cluster
-    digest: 0d914c861d86a4a6184cb8dd57382b50e9e47df9a2d989fdf3ad6901d78c3951
+    digest: 9f893577b8df4c046949e74386bc86f6ad46b29103159e0051cbf50e62214237
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -380,7 +402,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-private-0.0.5.tgz
     version: 0.0.5
   - appVersion: dev
-    created: 2019-09-19T14:53:28.616244195Z
+    created: 2019-09-25T12:48:50.935629486Z
     description: Create a private ethereum swarm cluster
     digest: 64dc987eaed6ceabb739110bca31bb989ba88298b2d1dcda440c1c97a471153a
     home: https://swarm.ethereum.org
@@ -402,7 +424,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-private-0.0.4.tgz
     version: 0.0.4
   - appVersion: dev
-    created: 2019-09-19T14:53:28.612787086Z
+    created: 2019-09-25T12:48:50.931619158Z
     description: Create a private ethereum swarm cluster
     digest: 36e2fb71be945c4e1d3fe37a285f3d3141a885d8bc37a0dda156acc0731d9bb3
     home: https://swarm.ethereum.org
@@ -424,7 +446,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-private-0.0.3.tgz
     version: 0.0.3
   - appVersion: dev
-    created: 2019-09-19T14:53:28.608967451Z
+    created: 2019-09-25T12:48:50.928852106Z
     description: Create a private ethereum swarm cluster
     digest: 70774b9d46e4fce850f7d08e7fe96ee7f3e965bea6f47c797a945781738e3f52
     home: https://swarm.ethereum.org
@@ -446,7 +468,7 @@ entries:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-private-0.0.2.tgz
     version: 0.0.2
   - appVersion: dev
-    created: 2019-09-19T14:53:28.60424118Z
+    created: 2019-09-25T12:48:50.925634701Z
     description: Create a private ethereum swarm cluster
     digest: 1def13ed63bfc9c3f00c6f984cb644fb3dc183ddecfe0996f95bef5679554aaa
     home: https://swarm.ethereum.org
@@ -469,9 +491,9 @@ entries:
     version: 0.0.1
   swarm-tests:
   - appVersion: dev
-    created: 2019-09-19T14:53:28.619966488Z
+    created: 2019-09-25T12:48:50.939715459Z
     description: Execute tests against the swarm codebase
-    digest: 3029817849e702edc7e346c20c4b7def2efb3c8bea78056a2b29c69cb70babb0
+    digest: d1f67d035c5a6859f7d3acef8af7ead5c9cd2a35eca93c7f778868b4a2091134
     home: https://swarm.ethereum.org
     icon: https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png
     keywords:
@@ -490,4 +512,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/ethersphere/helm-charts-artifacts/master/swarm-tests-0.0.1.tgz
     version: 0.0.1
-generated: 2019-09-19T14:53:28.586097033Z
+generated: 2019-09-25T12:48:50.902169886Z
